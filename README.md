@@ -9,7 +9,7 @@ Learning some more game development concepts while developing(basically copying)
 ![image](https://user-images.githubusercontent.com/45930809/147532171-1572772e-abe8-4d56-a069-eee2453025b8.png)
 
 ## How to play?
-Use your arrow keys to move the paddle and destroy all the bricks!.
+Use your arrow keys to move the paddle and destroy all the bricks!
 
 ## Credits
 I have learnt this game from [ZetCode's](https://zetcode.com) breakout.
