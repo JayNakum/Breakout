@@ -1,4 +1,4 @@
-# Breakout ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/JayNakum/Breakout?label=Download&style=for-the-badge)
+# Breakout [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JayNakum/Breakout?label=Download&style=for-the-badge)](https://github.com/JayNakum/Breakout/releases)
 ### Developed by [Jay Nakum](https://jaynakum.github.io)
 More practicing.
 Learning some more game development concepts while developing(basically copying) this OG breakout game.
