@@ -1,7 +1,7 @@
 # Breakout [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JayNakum/Breakout?label=Download&style=for-the-badge)](https://github.com/JayNakum/Breakout/releases)
-### Developed by [Jay Nakum](https://jaynakum.github.io)
-More practicing.
-Learning some more game development concepts while developing(basically copying) this OG breakout game.
+
+More practicing.  
+Learning some more game development concepts while developing(basically copying) this breakout game.
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/45930809/147532107-4bddd5b6-1d3a-49c8-bce6-964b298940c4.png)
@@ -13,3 +13,5 @@ Use your arrow keys to move the paddle and destroy all the bricks!.
 
 ## Credits
 I have learnt this game from [ZetCode's](https://zetcode.com) breakout.
+
+### Developed by [Jay Nakum](https://jaynakum.github.io).
