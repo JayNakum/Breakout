@@ -1,4 +1,4 @@
-# Breakout [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JayNakum/Breakout?label=Download&style=for-the-badge)](https://github.com/JayNakum/Breakout/releases)
+# [Breakout](https://github.com/JayNakum/Breakout) [![GitHub release (latest by date)](https://img.shields.io/github/v/release/JayNakum/Breakout?label=Download&style=for-the-badge)](https://github.com/JayNakum/Breakout/releases)
 
 More practicing.  
 Learning some more game development concepts while developing(basically copying) this breakout game.
